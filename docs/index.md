@@ -12,7 +12,7 @@ We welcome your feedback and contributions. If you run into problems or have ide
 If you're using or thinking about using xOPR, please reach out to thomas.teisberg@astera.org. Even just a one sentence email with what you're interested in using xOPR for or what you'd like it to do for you is helpful!
 :::
 
-xOPR offers access to most of the OPR data catalog, but not absolutely every line. Check out our [availability maps](https://docs.englacial.org/xopr/polar-maps/) for details.
+xOPR offers access to most of the OPR data catalog, but not absolutely every line. Check out our [availability maps](https://docs.englacial.org/xopr/map/) for details.
 
 ## Installing xOPR
 
