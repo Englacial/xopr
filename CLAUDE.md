@@ -3,7 +3,7 @@
 ## Project Description Open polar radar functions for reading data and creating
 STAC catalogues
 
-Our xopr project lives on github at https://github.com/thomasteisberg/xopr ;
+Our xopr project lives on github at https://github.com/englacial/xopr ;
 when we reference a github issue or pull request using (for example) `gh #22`,
 fetch it from our project directory.
 

@@ -15,7 +15,7 @@ You can contribute in many ways, for example:
 
 ### Report Bugs
 
-Report bugs at https://github.com/thomasteisberg/xopr/issues.
+Report bugs at https://github.com/englacial/xopr/issues.
 
 **If you are reporting a bug, please follow the template guidelines. The more
 detailed your report, the easier and thus faster we can help you.**
@@ -42,13 +42,13 @@ happy for any support that they can get.
 xopr could always use more documentation, whether as
 part of the official documentation, in docstrings, or even on the web in blog
 posts, articles, and such. Just
-[open an issue](https://github.com/thomasteisberg/xopr/issues)
+[open an issue](https://github.com/englacial/xopr/issues)
 to let us know what you will be working on so that we can provide you with guidance.
 
 ### Submit Feedback
 
 The best way to send feedback is to file an issue at
-https://github.com/thomasteisberg/xopr/issues. If your feedback fits the format of one of
+https://github.com/englacial/xopr/issues. If your feedback fits the format of one of
 the issue templates, please use that. Remember that this is a volunteer-driven
 project and everybody has limited time.
 
@@ -57,7 +57,7 @@ project and everybody has limited time.
 Ready to contribute? Here's how to set up xopr for
 local development.
 
-1. Fork the https://github.com/thomasteisberg/xopr
+1. Fork the https://github.com/englacial/xopr
    repository on GitHub.
 2. Clone your fork locally (*if you want to work locally*)
 

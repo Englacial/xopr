@@ -1,0 +1,19 @@
+coverage:
+  status:
+    project:
+      default:
+        target: auto
+        threshold: 2%
+    patch:
+      default:
+        target: 70%
+
+ignore:
+  - "tests/"
+  - "docs/"
+  - "setup.py"
+
+comment:
+  layout: "reach,diff,flags,files"
+  behavior: default
+  require_changes: false

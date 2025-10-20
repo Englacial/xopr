@@ -7,12 +7,12 @@ xOPR is a Python library designed to make accessing [Open Polar Radar's](https:/
 :::{tip}
 xOPR is a work in progress! We hope to keep the API relatively stable, but it's still early days and it may evolve.
 
-We welcome your feedback and contributions. If you run into problems or have ideas for how this could be better, please consider [opening an issue](https://github.com/thomasteisberg/xopr/issues/new/choose). We also welcome pull requests!
+We welcome your feedback and contributions. If you run into problems or have ideas for how this could be better, please consider [opening an issue](https://github.com/englacial/xopr/issues/new/choose). We also welcome pull requests!
 
 If you're using or thinking about using xOPR, please reach out to thomas.teisberg@astera.org. Even just a one sentence email with what you're interested in using xOPR for or what you'd like it to do for you is helpful!
 :::
 
-xOPR offers access to most of the OPR data catalog, but not absolutely every line. Check out our [availability maps](https://www.thomasteisberg.com/xopr/polar-maps/) for details.
+xOPR offers access to most of the OPR data catalog, but not absolutely every line. Check out our [availability maps](https://docs.englacial.org/xopr/polar-maps/) for details.
 
 ## Installing xOPR
 
@@ -50,7 +50,7 @@ To learn more, we recommend looking through the notebooks on the left side navig
 
 For details on the initial design planning of xopr, please see [this OPR wiki page](https://gitlab.com/openpolarradar/opr/-/wikis/OPR-Data-Access-Tool-Planning).
 
-For current design and terminology, see the [design notes](https://www.thomasteisberg.com/xopr/design/) page.
+For current design and terminology, see the [design notes](https://docs.englacial.org/xopr/design/) page.
 
 :::{figure} img/opr-data-access-infra-1.png
 :align: center

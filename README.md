@@ -1,9 +1,10 @@
 # Welcome to xopr
 
-[![Tests](https://github.com/thomasteisberg/xopr/actions/workflows/test.yml/badge.svg)](https://github.com/thomasteisberg/xopr/actions/workflows/test.yml)
-[![Documentation](https://github.com/thomasteisberg/xopr/actions/workflows/docs.yml/badge.svg)](https://github.com/thomasteisberg/xopr/actions/workflows/docs.yml)
+[![Tests](https://github.com/englacial/xopr/actions/workflows/test.yml/badge.svg)](https://github.com/englacial/xopr/actions/workflows/test.yml)
+[![Documentation](https://github.com/englacial/xopr/actions/workflows/docs.yml/badge.svg)](https://github.com/englacial/xopr/actions/workflows/docs.yml)
+[![codecov](https://codecov.io/gh/englacial/xopr/branch/main/graph/badge.svg)](https://codecov.io/gh/englacial/xopr)
 [![PyPI Version](https://img.shields.io/pypi/v/xopr.svg)](https://pypi.org/project/xopr/)
-[![License](https://img.shields.io/github/license/thomasteisberg/xopr.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/englacial/xopr.svg)](LICENSE)
 
 **Flight Coverage:** <!--ARCTIC_BADGE-->![Arctic](https://img.shields.io/badge/Arctic-612696%20km-00A4CC)<!--/ARCTIC_BADGE--> <!--ANTARCTIC_BADGE-->![Antarctic](https://img.shields.io/badge/Antarctic-396233%20km-FF6B35)<!--/ANTARCTIC_BADGE-->
 
@@ -13,23 +14,23 @@
 
 *Data last updated: <!--LAST_UPDATED-->2025-10-01<!--/LAST_UPDATED-->*
 
-**Try our code in binder:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thomasteisberg/xopr/HEAD?urlpath=lab/tree/docs/notebooks)
+**Try our code in binder:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/englacial/xopr/HEAD?urlpath=lab/tree/docs/notebooks)
 
-**Documentation:** [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://www.thomasteisberg.com/xopr/)
+**Documentation:** [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://docs.englacial.org/xopr/)
 
-**Code Coverage:** [Coverage Report](https://thomasteisberg.github.io/xopr/coverage/)
+**Code Coverage:** [Coverage Report](https://docs.englacial.org/xopr/coverage/)
 
 **Contributor Code of Conduct:** [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-xopr is a Python library designed to make accessing [Open Polar Radar's](https://ops.cresis.ku.edu/) data archives easy, scalable, and reproducible; see [here for current data availibility](https://www.thomasteisberg.com/xopr/polar-maps/) within xopr..
+xopr is a Python library designed to make accessing [Open Polar Radar's](https://ops.cresis.ku.edu/) data archives easy, scalable, and reproducible; see [here for current data availibility](https://docs.englacial.org/xopr/polar-maps/) within xopr..
 
 **xopr is a work in progress! The API may evolve as we continue towards a stable 1.0 release.**
 
-We welcome your feedback and contributions. If you run into problems or have ideas for how this could be better, please consider [opening an issue](https://github.com/thomasteisberg/xopr/issues/new/choose). We also welcome pull requests!
+We welcome your feedback and contributions. If you run into problems or have ideas for how this could be better, please consider [opening an issue](https://github.com/englacial/xopr/issues/new/choose). We also welcome pull requests!
 
 ## Get started
 
-Check out our [documentation](https://www.thomasteisberg.com/xopr/) to get started. The documentation includes example notebooks to show you the core functions.
+Check out our [documentation](https://docs.englacial.org/xopr/) to get started. The documentation includes example notebooks to show you the core functions.
 
 ## License
 

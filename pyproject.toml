@@ -59,3 +59,5 @@ source = "vcs"
 [tool.hatch.build.hooks.vcs]
 version-file = "src/xopr/_version.py"
 
+[tool.pytest.ini_options]
+addopts = "--cov=xopr --cov-report=xml --cov-report=term"

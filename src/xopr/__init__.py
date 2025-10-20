@@ -25,7 +25,7 @@
 xopr is a Python library designed to make accessing Open Polar Radar's data
 archives easy, scalable, and reproducible.
 
-See https://github.com/thomasteisberg/xopr for details.
+See https://github.com/englacial/xopr for details.
 """
 
 try:

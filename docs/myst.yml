@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/thomasteisberg/xopr
+  github: https://github.com/englacial/xopr
   plugins:
     - ./iframe-map.mjs
   jupyter:
@@ -30,7 +30,7 @@ project:
 site:
   template: book-theme
   options:
-    analytics_plausible: thomasteisberg.com/xopr  # Your domain
+    analytics_plausible: docs.englacial.org/xopr  # Your domain
     logo_text: xopr Documentation
     static_dir: _static
   #   favicon: favicon.ico
@@ -38,4 +38,4 @@ site:
   # Site actions don't support dynamic variables like {file}
   actions:
     - title: Launch on Binder
-      url: https://mybinder.org/v2/gh/thomasteisberg/xopr/HEAD?urlpath=lab/tree/docs/notebooks
+      url: https://mybinder.org/v2/gh/englacial/xopr/HEAD?urlpath=lab/tree/docs/notebooks
