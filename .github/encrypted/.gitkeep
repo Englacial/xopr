@@ -1,3 +1,0 @@
-# This directory contains encrypted credentials
-# Files here are encrypted with SOPS and Age
-# Never commit unencrypted credentials!
